@@ -13,7 +13,7 @@ Crédit: https://refactoring.guru/design-patterns/bridge
 
 ### Évaluation
 
-2+ 2-
+2+ 3-
 
 x CO - Les identifiants (variables et méthodes), les commentaires, les javadoc et l'indentation rendent le code facile à lire (il manque des commentaires explicatifs dans le code)
 
